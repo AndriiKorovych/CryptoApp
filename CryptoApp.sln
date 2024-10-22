@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApp", "CryptoApp.csproj", "{7AA8F66B-E584-40CD-81E4-25202E211E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA8F66B-E584-40CD-81E4-25202E211E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA8F66B-E584-40CD-81E4-25202E211E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA8F66B-E584-40CD-81E4-25202E211E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA8F66B-E584-40CD-81E4-25202E211E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F4750F-A395-4A99-A46B-B2B7FDB79527}
+	EndGlobalSection
+EndGlobal
